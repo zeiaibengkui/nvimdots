@@ -193,7 +193,7 @@ settings["colorscheme"] = "catppuccin"
 
 -- Set to true if your terminal supports a transparent background.
 ---@type boolean
-settings["transparent_background"] = false
+settings["transparent_background"] = true
 
 -- Set the background mode here.
 -- Useful for themes with both light and dark variants.
